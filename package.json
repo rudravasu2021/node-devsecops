@@ -21,4 +21,8 @@
     "nyc": "^14.1.1",
     "supertest": "^4.0.2"
   }
+  "repository": {
+    "type": "git"
+    "url": "https://github.com/rudravasu2021/node-devsecops.git"
+  }
 }
